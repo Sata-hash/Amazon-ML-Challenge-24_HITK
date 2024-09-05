@@ -1,4 +1,4 @@
-<h1 align="center"> Amazon ML Challenge 2024 </h1>
+<h1 align="center"> Amazon ML-Challenge 2024 </h1>
 
 ## Team Name: MLHacks
 
